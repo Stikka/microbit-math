@@ -1,6 +1,6 @@
 # Hello!
 ## The BBC micro:bit is a handheld, programmable micro-computer that can be used for all sorts of cool creations, from robots to musical instruments – the possibilities are endless.
-## Here are the codes you can find in [here](https://github.com/Stikka/microbit):
+## Complete list of all mini projects you can find in [here](https://github.com/Stikka/microbit):
 ##      1. Throw a dice. Chance is 100% that you will get a number between 1 and 6. 
 ##      2. Compass. Use this code if you ever get lost in the woods.
 ##      3. Protractor. Pretty handy when you don't have the right tools.
